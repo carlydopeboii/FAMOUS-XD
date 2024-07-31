@@ -9,7 +9,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- # BEST HAÏTIEN BOT 🇭🇹🇭🇹🇭🇹
+  <h1 aling+"center">BEST HAÏTIEN BOT 🇭🇹🇭🇹🇭🇹 </h1>
+ 
 ### 2. JWENN CREDS.JSON ou nan lyen sa
 <a href='https://replit.com/@habyazor/FAMOUS-XD-PAIRING-CODE?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Klike la pou w jwenn credit.json-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
