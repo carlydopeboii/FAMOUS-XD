@@ -49,7 +49,7 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
 
 ***
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Famous-Tech/FAMOUS-XD&template=https://github.com/Famous-Tech/FAMOUS-XD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Famous-Tech/FAMOUS-XD&template=https://github.com/Famous-Tech/FAMOUS-XD"><img title="Deploye Sou Render" src="https://img.shields.io/badge/DEPLOYE SOU HEROKU-h?color=yellow&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
 ***
@@ -58,15 +58,15 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
 ***          
           
-- <a href="https://github.com/codespaces/new"><img title="Deploy On Codespace" src="https://img.shields.io/badge/DEPLOY ON CODESPACE-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/codespaces/new"><img title="Deploye Sou Codespace" src="https://img.shields.io/badge/DEPLOYE SOU CODESPACE-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 ***
 
-- <a href="https://railway.app/new"><img title="Deploy On Raiwayl" src="https://img.shields.io/badge/DEPLOY ON RAIWAYL-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://railway.app/new"><img title="Deploye Sou Railway" src="https://img.shields.io/badge/DEPLOYE SOU RAIWAYL-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 ***
 
-- <a href='https://replit.com/github/Ethix-Xsid/Ethix-Xsid2' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+- <a href="https://replit.com/github/Ethix-Xsid/Ethix-Xsid2"><img title="Deploye Sou Replit" src="https://img.shields.io/badge/DEPLOYE SOU REPLIT-h?color=blue&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
 ***
