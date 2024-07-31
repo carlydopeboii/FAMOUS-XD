@@ -3,7 +3,9 @@
 
 ***
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=KREYE PA FAMOUS TECH
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+      
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=FAMOUS+XD+KREYE+PA+FAMOUS+TECH)](https://git.io/typing-svg)
  
 
  # BEST HAÏTIEN BOT 🇭🇹🇭🇹🇭🇹
