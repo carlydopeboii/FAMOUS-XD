@@ -74,5 +74,3 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 </P>
 
 
----
-
