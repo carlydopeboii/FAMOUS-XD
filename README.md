@@ -1,4 +1,9 @@
 <h1 align="center">FAMOUS XD</h1>
+<p align="center">
+
+***
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=KREYE PA FAMOUS TECH
  
 
  # BEST HAÏTIEN BOT 🇭🇹🇭🇹🇭🇹
