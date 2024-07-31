@@ -55,7 +55,7 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
 ***
 
-- <a href="https://railway.app/new"><img title="Deploye Sou Railway" src="https://img.shields.io/badge/DEPLOYE SOU RAIWAYL-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://railway.app/new"><img title="Deploye Sou Railway" src="https://img.shields.io/badge/DEPLOYE SOU RAILWAY-h?color=purple&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 ***
 
