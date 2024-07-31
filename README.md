@@ -1,4 +1,8 @@
-<h1 align="center">FAMOUS XD</h1>
+<p align="center">
+ <img alt="wasi" height="300" src="https://avatars.githubusercontent.com/u/167099698?v=4">
+
+
+  <h1 align="center">FAMOUS XD </h1>
 <p align="center">
 
 ***
