@@ -34,11 +34,8 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
 </p>
 
-##
 
 
-######  THANKS TO ALL COLLABORATORS🤗 
-###### Special thanks TO DYBY-TECH🔰✅
 
    <h1 align="center"
 
@@ -73,4 +70,9 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
 </P>
 
+##
+
+
+######  THANKS TO ALL COLLABORATORS🤗 
+###### Special thanks TO DYBY-TECH🔰✅
 
