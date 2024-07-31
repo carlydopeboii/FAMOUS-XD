@@ -69,6 +69,6 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 ##
 
 
-######  THANKS TO ALL COLLABORATORS🤗 
-###### Special thanks TO DYBY-TECH🔰✅
+######  MESI A TOUT KOLABORATE YO🤗 
+######  MESI SPESYALMAN A DYBY-TECH🔰✅
 
