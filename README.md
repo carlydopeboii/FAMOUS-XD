@@ -56,8 +56,6 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
 - <a href='https://youtu.be/NbREC9DTQcA?si=bamV9UTA5nXGwDDD' target="_blank"><img alt='Heroku Deploy Tutorial' src='https://img.shields.io/badge/-Heroku Deploy Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white'/></a>
 
-### TUTORIAL KIJAN POU W DEPLOYE.
-
 ***          
           
 - <a href="https://github.com/codespaces/new"><img title="Deploy On Codespace" src="https://img.shields.io/badge/DEPLOY ON CODESPACE-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
