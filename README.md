@@ -47,7 +47,7 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
 ***
 
-- <a href='https://youtu.be/NbREC9DTQcA?si=bamV9UTA5nXGwDDD' target="_blank"><img alt='Heroku Deploy Tutorial' src='https://img.shields.io/badge/-Heroku Deploy Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white'/></a>
+- <a href='https://youtu.be/NbREC9DTQcA?si=bamV9UTA5nXGwDDD' target="_blank"><img alt='TUTORIAL POU DEPLOYE SOU HEROKU' src='https://img.shields.io/badge/-TUTORIAL POU DEPLOYE SOU HEROKU-red?style=for-the-badge&logo=youtube&logoColor=bmw'/></a>
 
 ***          
           
